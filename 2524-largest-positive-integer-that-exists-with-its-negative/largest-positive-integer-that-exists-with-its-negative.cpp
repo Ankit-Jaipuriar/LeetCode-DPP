@@ -4,7 +4,7 @@ public:
     int findMaxK(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         unordered_map<int, int> mp;
-        int maxPairs = 0;
+        int maxPair = 0;
         int s = 0;
         int e = nums.size() - 1;
         
@@ -22,11 +22,11 @@ public:
         }
         
         for (auto it : mp) {
-            maxPairs = max(maxPairs, it.first);
+            maxPair = max(maxPair, it.first);
         }
-        if(maxPairs==0){
+        if(maxPair==0){
             return -1;
         }
-        return maxPairs;
+        return maxPair;
     }
 };
