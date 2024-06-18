@@ -34,10 +34,7 @@ public:
             maxProfit[i] = max(maxProfit[i - 1], profit[i]);
         }
 
-        // Sort workers
         sort(worker.begin(), worker.end());
-
-        // Compute total maximum profit for all workers
         for (int i = 0; i < n; ++i) {
             int b = fun2(difficulty, worker[i]);
             if (b != -1) {
