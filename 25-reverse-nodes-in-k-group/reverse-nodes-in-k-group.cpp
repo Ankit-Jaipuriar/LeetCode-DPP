@@ -10,35 +10,57 @@
  */
 class Solution {
 public:
-    int getLength(ListNode* head){
-        int len = 0;
+    ListNode* reverse(ListNode* head) {
         ListNode* curr = head;
-        while(curr!=NULL){
-            curr = curr->next;
-            len++;
-        }
-        return len;
-    }
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        int num = getLength(head);
-        if(num<k){
-            return head;
-        }
-        int x = k;
-        ListNode* curr = head;
+        ListNode* next = NULL;
         ListNode* prev = NULL;
-        ListNode* forward = NULL;
-        int count = 0;
-        while(x--){
-            forward = curr->next;
+        while (curr) {
+            next = curr->next;
             curr->next = prev;
             prev = curr;
-            curr = forward;
-            count++;
-        }
-        if(forward!=NULL){
-            head->next = reverseKGroup(forward, k);
+            curr = next;
         }
         return prev;
+    }
+
+    ListNode* getKthnode(ListNode* curr, int k) {
+        k -= 1;
+        while (curr != NULL && k > 0) {
+            k--;
+            curr = curr->next;
+        }
+        return curr;
+    }
+
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode* curr = head;
+        ListNode* prevLast = NULL;
+        ListNode* newHead = NULL;
+
+        while (curr) {
+            ListNode* kthnode = getKthnode(curr, k);
+            if (kthnode == NULL) {
+                if (prevLast) {
+                    prevLast->next = curr;
+                }
+                break;
+            }
+
+            ListNode* nextNode = kthnode->next;
+            kthnode->next = NULL;
+            ListNode* reversedHead = reverse(curr);
+
+            if (newHead == NULL) {
+                newHead = reversedHead;
+            }
+
+            if (prevLast) {
+                prevLast->next = reversedHead;
+            }
+            prevLast = curr;
+            curr = nextNode;
+        }
+
+        return newHead ? newHead : head;
     }
 };
