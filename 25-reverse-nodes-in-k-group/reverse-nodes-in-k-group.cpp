@@ -10,11 +10,11 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head) {
+    ListNode* reverse(ListNode* head){
         ListNode* curr = head;
-        ListNode* next = NULL;
         ListNode* prev = NULL;
-        while (curr) {
+        ListNode* next = NULL;
+        while(curr){
             next = curr->next;
             curr->next = prev;
             prev = curr;
@@ -22,45 +22,39 @@ public:
         }
         return prev;
     }
-
-    ListNode* getKthnode(ListNode* curr, int k) {
+    
+    ListNode* getKthNode(ListNode* temp, int k){
         k -= 1;
-        while (curr != NULL && k > 0) {
+        while(temp && k > 0){
             k--;
-            curr = curr->next;
+            temp = temp->next;
         }
-        return curr;
+        return temp;
     }
-
+    
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* curr = head;
+        ListNode* temp = head;
         ListNode* prevLast = NULL;
-        ListNode* newHead = NULL;
-
-        while (curr) {
-            ListNode* kthnode = getKthnode(curr, k);
-            if (kthnode == NULL) {
-                if (prevLast) {
-                    prevLast->next = curr;
+        ListNode* kthNode;
+        while(temp != NULL){
+            kthNode = getKthNode(temp, k);
+            if(kthNode == NULL){
+                if(prevLast){
+                    prevLast->next = temp;
                 }
                 break;
             }
-
-            ListNode* nextNode = kthnode->next;
-            kthnode->next = NULL;
-            ListNode* reversedHead = reverse(curr);
-
-            if (newHead == NULL) {
-                newHead = reversedHead;
+            ListNode* nextNode = kthNode->next;
+            kthNode->next = NULL;
+            ListNode* newHead = reverse(temp);
+            if(temp == head){
+                head = kthNode;
+            } else {
+                prevLast->next = kthNode;
             }
-
-            if (prevLast) {
-                prevLast->next = reversedHead;
-            }
-            prevLast = curr;
-            curr = nextNode;
+            prevLast = temp;
+            temp = nextNode;
         }
-
-        return newHead ? newHead : head;
+        return head;
     }
 };
