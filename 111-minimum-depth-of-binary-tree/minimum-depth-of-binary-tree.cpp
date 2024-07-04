@@ -15,15 +15,26 @@ public:
          if(root==NULL){
             return 0;
         }
-        if(root->left==NULL && root->right==NULL){
-            return 1;
-        } 
-        if(root->left==NULL){
-           return 1+ minDepth(root->right);
+        queue<TreeNode*> q;
+        q.push(root);
+        int depth = 1;
+        while(!q.empty()){
+            int size = q.size();
+            for(int i=0;i<size;i++){
+                TreeNode* curr = q.front();
+                q.pop();
+                if(curr->left==NULL && curr->right==NULL){
+                    return depth;
+                }
+                if(curr->left){
+                    q.push(curr->left);
+                }
+                if(curr->right){
+                    q.push(curr->right);
+                }
+            }
+            depth++;
         }
-        if(root->right==NULL){
-            return 1+minDepth(root->left);
-        }
-        return min(minDepth(root->left),minDepth(root->right))+1;
+        return 0;
     }
 };
