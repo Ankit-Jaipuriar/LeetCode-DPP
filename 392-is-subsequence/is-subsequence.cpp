@@ -1,22 +1,14 @@
 class Solution {
 public:
-    bool solve(const string &str1, const string &str2, int m, int n, vector<vector<int>> &memo) {
-        if (m == 0) return true; // All characters of str1 matched
-        if (n == 0) return false; // str2 is exhausted
-
-        if (memo[m][n] != -1) return memo[m][n];
-
-        if (str1[m - 1] == str2[n - 1]) {
-            memo[m][n] = solve(str1, str2, m - 1, n - 1, memo);
-        } else {
-            memo[m][n] = solve(str1, str2, m, n - 1, memo);
+    bool solve(int i, int j,string& s1, string& s2){
+        if(i==s1.size()) return true;
+        if(j==s2.size()) return false;
+        if(s1[i]==s2[j]){
+            return solve(i+1,j+1,s1,s2);
         }
-
-        return memo[m][n];
+           return solve(i,j+1,s1,s2);
     }
-
     bool isSubsequence(string s, string t) {
-        vector<vector<int>> memo(s.size() + 1, vector<int>(t.size() + 1, -1));
-        return solve(s, t, s.size(), t.size(), memo);
+        return solve(0,0,s,t);
     }
 };
