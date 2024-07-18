@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<string>> ans;
-    bool isSafe(vector<vector<int>>& board,int r, int c, int n){
+    bool isSafe(vector<vector<int>>& board,int r, int c,int n){
         for(int i=0;i<r;i++){
             if(board[i][c]==1){
                 return false;
@@ -12,18 +12,18 @@ public:
                 return false;
             }
         }
-        for(int i=r-1,j=c+1;i>=0 && j<n;i--,j++){
+        for(int i=r-1,j=c+1;i>=0 && j<n; i--,j++){
             if(board[i][j]==1){
                 return false;
             }
         }
         return true;
     }
-    void helper(vector<vector<int>>& board, int n,int r){
+    void helper(vector<vector<int>>& board, int n, int r){
         if(r==n){
             vector<string> temp;
             for(int i=0;i<n;i++){
-                string row = "";
+                string row="";
                 for(int j=0;j<n;j++){
                     if(board[i][j]==1){
                         row+="Q";
@@ -43,10 +43,9 @@ public:
                 board[r][i]=0;
             }
         }
-
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<int>> board(n,vector<int>(n,0));
+        vector<vector<int>>board(n,vector<int>(n,0));
         helper(board,n,0);
         return ans;
     }
