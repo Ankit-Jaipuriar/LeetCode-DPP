@@ -1,19 +1,27 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string text1, string text2) {
-        int n = text1.size(),m=text2.size();
-        vector<vector<int>>dp(text1.size()+1,vector<int>(text2.size()+1));
-        for(int i=0;i<=n;i++) dp[i][m]=0;
-        for(int i=0;i<=m;i++) dp[n][i]=0;
-        for(int i=n-1;i>=0;i--){
-            for(int j=m-1;j>=0;j--){
-                if (text1[i] == text2[j]) {
-                         dp[i][j] = 1 + dp[i + 1][j + 1];
-                } else {
-                    dp[i][j] = max(dp[i + 1][j], dp[i][j + 1]);
-                }
-                }
-        }   
-        return dp[0][0];
+int sol(string& A, string& B, int i, int j, vector<vector<int>>& dp) {
+    if (i == A.size() || j == B.size()) {
+        return 0;
     }
+    if (dp[i][j] != -1) {
+        return dp[i][j];
+    } 
+    if (A[i] == B[j]) {
+        dp[i][j] = 1 + sol(A, B, i + 1, j + 1, dp);
+    } else {
+
+        dp[i][j] = max(sol(A, B, i, j + 1, dp), sol(A, B, i + 1, j, dp));
+    }   
+    return dp[i][j];
+}
+
+
+    int longestCommonSubsequence(string A, string B) {
+            int n = A.size();
+    int m = B.size();
+    vector<vector<int>> dp(n, vector<int>(m, -1));  
+    return sol(A, B, 0, 0, dp);
+}
+       
 };
