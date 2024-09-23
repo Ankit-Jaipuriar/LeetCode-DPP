@@ -12,11 +12,11 @@ public:
         }
         nums.resize(index);
         int j=1;
-        for(int i=0;i<neg.size();i++){
-            if(j<nums.size()){
-                nums.insert(nums.begin()+j,neg[i]);
+        for(int k=0;k<neg.size();k++){
+            if(k<nums.size()){
+                nums.insert(nums.begin()+j,neg[k]);
             }else{
-                nums.push_back(neg[i]);
+                nums.push_back(neg[k]);
             }
             j+=2;
         }
