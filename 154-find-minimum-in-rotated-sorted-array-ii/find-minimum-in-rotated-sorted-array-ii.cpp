@@ -12,6 +12,7 @@ public:
             if (nums[mid] == nums[low] && nums[mid] == nums[high]) {
                 low++;
                 high--;
+                continue;
             }
             // Left half is sorted
             else if (nums[mid] >= nums[low]) {
