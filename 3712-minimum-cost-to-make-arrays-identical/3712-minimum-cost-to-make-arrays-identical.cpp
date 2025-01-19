@@ -40,9 +40,6 @@ public:
             for (int i = 0; i < arr.size(); i++) {
                 ans += abs(arr[i] - brr[i]);
         }
-        // if(ans2==0){
-        //     return ans;
-        // }
         if(ans2!=0){
         long long x = min(ans2,ans3);
         return min(ans,x);
