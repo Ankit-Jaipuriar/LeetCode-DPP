@@ -26,25 +26,26 @@ public:
         for(int i=0;i<arr.size();i++){
             ans3+=abs(arr[i]-brr[i]);
         }
-        bool a = isAscending(arr) || isDescending(arr);
-        bool b = isAscending(brr) || isDescending(brr);
-        long long ans2 = 0;
-        if (a || b) {
-            for (int i = 0; i < arr.size(); i++) {
-                ans2 += abs(arr[i] - brr[i]);
-            }
-        }
+        // bool a = isAscending(arr) || isDescending(arr);
+        // bool b = isAscending(brr) || isDescending(brr);
+        // long long ans2 = 0;
+        // if (a || b) {
+        //     for (int i = 0; i < arr.size(); i++) {
+        //         ans2 += abs(arr[i] - brr[i]);
+        //     }
+        // }
             ans += k; 
             sort(arr.begin(), arr.end());
             sort(brr.begin(), brr.end());
             for (int i = 0; i < arr.size(); i++) {
                 ans += abs(arr[i] - brr[i]);
         }
-        if(ans2!=0){
-        long long x = min(ans2,ans3);
-        return min(ans,x);
-        }else{
-            return min(ans,ans3);
-        }
+        // if(ans2!=0){
+        // long long x = min(ans2,ans3);
+        // return min(ans,x);
+        // }else{
+        //     return min(ans,ans3);
+        // }
+        return min(ans,ans3);
     }
 };
