@@ -1,12 +1,7 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-typedef long long int ll;
-
 class Solution {
 public:
     long long minCost(int n, vector<vector<int>>& cost) {
-        vector<vector<vector<ll>>> dp(n / 2, vector<vector<ll>>(3, vector<ll>(3, LLONG_MAX)));
+        vector<vector<vector<long long>>> dp(n / 2, vector<vector<long long>>(3, vector<long long>(3, LLONG_MAX)));
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 if (i != j) {
@@ -22,7 +17,7 @@ public:
                         continue;
                     } 
                     
-                    ll minPrev = LLONG_MAX;
+                    long long minPrev = LLONG_MAX;
                     
                     for (int i1 = 0; i1 < 3; i1++) {
                         for (int j1 = 0; j1 < 3; j1++) {
@@ -37,7 +32,7 @@ public:
             }
         }
 
-        ll result = LLONG_MAX;
+        long long result = LLONG_MAX;
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 if (i != j) {
