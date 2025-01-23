@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0547-number-of-provinces) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
@@ -58,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
