@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |
