@@ -1,40 +1,50 @@
 class Solution {
 public:
     vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
-        vector<vector<int>> adj(numCourses);
-        vector<int> inDegree(numCourses, 0);
-        for (auto& pre : prerequisites) {
-            adj[pre[0]].push_back(pre[1]);
-            inDegree[pre[1]]++;
+        vector<vector<int>> graph(numCourses);
+        vector<int> indegree(numCourses, 0);
+        for(auto p:prerequisites){
+            int u=p[0],v=p[1];
+            graph[u].push_back(v);
+            indegree[v]++;
         }
 
+        vector<vector<int>> pathVisited(numCourses, vector<int>(numCourses,false));
         queue<int> q;
-        vector<unordered_set<int>> reachable(numCourses); 
-
-        for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0) q.push(i);
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0){
+                q.push(i);
+            }
         }
-
-        while (!q.empty()) {
-            int curr = q.front();
+        while(!q.empty()){
+            int curr=q.front();
             q.pop();
 
-            for (int next : adj[curr]) {
-                reachable[next].insert(curr);
-                for (int pre : reachable[curr]) {
-                    reachable[next].insert(pre);
+            for(auto nbr:graph[curr]){
+                pathVisited[curr][nbr]=true;
+
+                for(int i=0;i<numCourses;i++){
+                    if(pathVisited[i][curr]){
+                        pathVisited[i][nbr]=true;
+                    }
                 }
 
-                inDegree[next]--;
-                if (inDegree[next] == 0) q.push(next);
+                indegree[nbr]--;
+                if(indegree[nbr]==0){
+                    q.push(nbr);
+                }
             }
         }
 
-        vector<bool> result;
-        for (auto& query : queries) {
-            result.push_back(reachable[query[1]].count(query[0]) > 0);
-        }
+        vector<bool> res;
+        for(auto q:queries){
+            int x = q[0],y=q[1];
 
-        return result;
+            res.push_back(pathVisited[x][y]);
+        }
+        return res;
+
+
+
     }
 };
