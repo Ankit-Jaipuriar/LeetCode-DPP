@@ -9,27 +9,20 @@
  */
 class Solution {
 public:
-    unordered_map<TreeNode*, TreeNode*> parent;
-    unordered_map<TreeNode*, int> height; 
-    void DFS(TreeNode* node, TreeNode* par) {
-        if (!node) return;
-
-        parent[node] = par; 
-        height[node] = par ? height[par] + 1 : 0; 
-
-        DFS(node->left, node);
-        DFS(node->right, node);
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        DFS(root, nullptr); 
-        while (height[p] > height[q]) p = parent[p];
-        while (height[q] > height[p]) q = parent[q];
-        while (p != q) {
-            p = parent[p];
-            q = parent[q];
+        if(root==NULL || root==p || root==q){
+            return root;
         }
-
-        return p; 
+        TreeNode* left = lowestCommonAncestor(root->left,p,q);
+        TreeNode* right = lowestCommonAncestor(root->right,p,q);
+        if(left==NULL){
+            return right;
+        }
+        else if(right==NULL){
+            return left;
+        }
+        else{
+            return root;
+        }
     }
 };
