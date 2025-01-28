@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Counting
 |  |
 | ------- |
