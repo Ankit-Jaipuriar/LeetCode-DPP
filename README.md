@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Counting
 |  |
