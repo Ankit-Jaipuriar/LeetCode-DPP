@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3429-special-array-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
