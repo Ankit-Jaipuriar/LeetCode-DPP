@@ -21,8 +21,8 @@ public:
 
         // for len 3 to n
         for (int length = 3; length <= n; length++) {
-            for (int i = 0; i <= n - length; i++) {
-                int j = i + length - 1;
+            for (int i = 0; i <= n - length; i++) { //n-len avoid out of index condition to check substring of len > 3
+                int j = i + length - 1; // to check the inner substring, the last index
 
                 if (s[i] == s[j] && dp[i + 1][j - 1] == 1) {
                     dp[i][j] = 1;
