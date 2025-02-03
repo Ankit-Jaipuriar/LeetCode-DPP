@@ -1,50 +1,28 @@
 class Solution {
 public:
     int longestMonotonicSubarray(vector<int>& nums) {
-        int n=nums.size();
-        vector<vector<int>> dp1(n,vector<int>(n));
-        vector<vector<int>> dp2(n,vector<int>(n));
-        int maxLength = 1;
+        int n = nums.size();
+        if (n == 1) return 1;  // Base case: Single element
 
-        // for len1;
-        for(int i=0;i<n;i++){
-            dp1[i][i]=1;
-            dp2[i][i]=1;
-        }
+        int inc_len = 1, dec_len = 1, max_len = 1;
 
-        // for len2;
-        for(int i=0;i<n-1;i++){
-            if(nums[i]<nums[i+1]){
-                dp1[i][i+1]=2;
-                dp2[i][i+1]=1;
-            }else if(nums[i]>nums[i+1]){
-                dp2[i][i+1]=2;
-                dp1[i][i+1]=1;
-            } else {
-                dp1[i][i+1] = 1;
-                dp2[i][i+1] = 1;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] > nums[i - 1]) {
+                inc_len++;         // Increase increasing sequence length
+                dec_len = 1;       // Reset decreasing sequence length
+            } 
+            else if (nums[i] < nums[i - 1]) {
+                dec_len++;         // Increase decreasing sequence length
+                inc_len = 1;       // Reset increasing sequence length
+            } 
+            else {
+                inc_len = 1;       // Reset both when elements are equal
+                dec_len = 1;
             }
-            maxLength = max(maxLength, max(dp1[i][i+1], dp2[i][i+1]));
-        }
-    
-        // for len3,4,...n;
-        for(int len=3;len<=n;len++){
-            for(int i=0;i<=n-len;i++){
-                int j=i+len-1;
-                if(nums[j-1] < nums[j]){
-                    dp1[i][j] = dp1[i][j-1] + 1;
-                    dp2[i][j] = 1;
-                } else if(nums[j-1] > nums[j]){
-                    dp2[i][j] = dp2[i][j-1] + 1;
-                    dp1[i][j] = 1;
-                } else {
-                    dp1[i][j] = 1;
-                    dp2[i][j] = 1;
-                }
-                maxLength = max(maxLength, max(dp1[i][j], dp2[i][j]));
-            }
+
+            max_len = max(max_len, max(inc_len, dec_len));
         }
 
-        return maxLength;
+        return max_len;
     }
 };
