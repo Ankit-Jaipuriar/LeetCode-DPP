@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0684-redundant-connection) |
