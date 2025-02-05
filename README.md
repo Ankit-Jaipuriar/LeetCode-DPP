@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Greedy
 |  |
 | ------- |
