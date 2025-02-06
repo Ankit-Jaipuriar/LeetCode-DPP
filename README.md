@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
@@ -142,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
