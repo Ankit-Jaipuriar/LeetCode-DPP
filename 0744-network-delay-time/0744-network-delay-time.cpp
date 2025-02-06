@@ -39,7 +39,7 @@ public:
                     int nbr = node.first;
                     int weight = node.second;
 
-                    if (currdist + weight < distance[nbr]) {
+                    if (distance[currvert] + weight < distance[nbr]) {
                         distance[nbr] = currdist + weight;
                         pq.push({distance[nbr], nbr});
                     }
