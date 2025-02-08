@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0747-min-cost-climbing-stairs) |
