@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [0854-making-a-large-island](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1036-rotting-oranges) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3551-maximum-xor-score-subarray-queries) |
