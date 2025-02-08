@@ -4,7 +4,6 @@ public:
         if(nums.size()==1){
             return nums[0];
         }
-        nums.push_back(0);
         int n = nums.size();
         vector<int> dp(n + 1, 0);
         dp[0] = 0;  // base case
