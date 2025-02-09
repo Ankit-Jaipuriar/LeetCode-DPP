@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0322-coin-change) |
