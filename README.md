@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0747-min-cost-climbing-stairs) |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2388-replace-elements-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2388-replace-elements-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
