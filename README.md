@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2388-replace-elements-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2388-replace-elements-in-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2388-replace-elements-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2388-replace-elements-in-an-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Stack
 |  |
