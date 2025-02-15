@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -230,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
