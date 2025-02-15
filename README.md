@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
