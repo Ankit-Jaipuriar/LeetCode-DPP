@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Heap (Priority Queue)
 |  |
