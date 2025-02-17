@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int total_count;
+    int total_cost;
     void dfs(int node, int parent, vector<vector<pair<int,int>>>& graph, vector<int>& vis, vector<int>& cost_of_rev_of_node, int curr_depth,vector<int>& depth){
         vis[node]=1;
         depth[node]=curr_depth;
@@ -8,7 +8,7 @@ public:
         for(pair<int, int> child : graph[node]){
             if(!vis[child.first]){
                 cost_of_rev_of_node[child.first]=cost_of_rev_of_node[node]+child.second; // depth of child = depth of parent + 1
-                total_count+=child.second; // adding cost of going to that child
+                total_cost+=child.second; // adding cost of going to that child
                 dfs(child.first, node, graph, vis, cost_of_rev_of_node, curr_depth+1, depth); // now child becomes node and node becomes parent
             }
         }
@@ -30,7 +30,7 @@ public:
             }
         }
 
-        total_count=0; // total cost to reach every node from a root node
+        total_cost=0; // total cost to reach every node from a root node
         int parent=-1;
         int curr_depth=0;
         vector<int> depth(n,0); // depth of each node from parent
@@ -40,11 +40,11 @@ public:
         dfs(root, parent, graph, vis, cost_of_rev_of_node, curr_depth, depth);
 
         vector<int> ans(n, 0); 
-        ans[root]=total_count;
+        ans[root]=total_cost;
         for(int i=0; i<n; i++){ 
             if(i==root) continue;
             int i_to_root = depth[i]-cost_of_rev_of_node[i];
-            int val = total_count - cost_of_rev_of_node[i];
+            int val = total_cost - cost_of_rev_of_node[i];
             int res = val+i_to_root;
             ans[i]=res;
         }
