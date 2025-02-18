@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1558-course-schedule-iv) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2388-replace-elements-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2388-replace-elements-in-an-array) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -180,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Heap (Priority Queue)
@@ -252,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
+## Memoization
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
