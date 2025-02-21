@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
