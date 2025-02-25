@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0560-subarray-sum-equals-k) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2388-replace-elements-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2388-replace-elements-in-an-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0806-domino-and-tromino-tiling) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3551-maximum-xor-score-subarray-queries) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Design
 |  |
 | ------- |
