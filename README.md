@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0854-making-a-large-island) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
