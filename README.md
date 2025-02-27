@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
