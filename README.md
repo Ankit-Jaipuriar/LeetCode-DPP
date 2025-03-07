@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
+| [1170-shortest-common-supersequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0806-domino-and-tromino-tiling) |
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
