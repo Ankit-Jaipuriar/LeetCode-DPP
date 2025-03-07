@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0831-largest-sum-of-averages) |
 | [0967-minimum-falling-path-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
