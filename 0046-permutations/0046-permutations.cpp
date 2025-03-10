@@ -8,9 +8,9 @@ public:
         }
 
         for(int i=idx;i<n;i++){
-            swap(nums[idx], nums[i]);
+            swap(nums[idx], nums[i]); //idx place ==> ith element choice
             solve(nums,idx+1,n);
-            swap(nums[idx],nums[i]);
+            swap(nums[idx],nums[i]); //backtracking
         }
     }
 
