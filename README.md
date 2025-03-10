@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0063-unique-paths-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0090-subsets-ii) |
