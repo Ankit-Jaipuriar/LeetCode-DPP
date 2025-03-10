@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
 | [0770-couples-holding-hands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0770-couples-holding-hands) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/2032-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
