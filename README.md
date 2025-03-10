@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1364-tuple-with-same-product) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1078-remove-outermost-parentheses) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [1364-tuple-with-same-product](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
