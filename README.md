@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1250-longest-common-subsequence) |
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
