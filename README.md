@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1170-shortest-common-supersequence) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
