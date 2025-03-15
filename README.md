@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1078-remove-outermost-parentheses) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
