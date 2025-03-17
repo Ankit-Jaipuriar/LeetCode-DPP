@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0322-coin-change) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -349,9 +351,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
