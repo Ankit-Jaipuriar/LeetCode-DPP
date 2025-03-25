@@ -4,7 +4,6 @@ public:
         stack<int> s;
         s.push(INT_MAX);
         int n = nums2.size();
-        vector<int> ans(n);
         unordered_map<int, int> nextGreater; // Map to store next greater elements
 
         for (int i = n - 1; i >= 0; i--) {
