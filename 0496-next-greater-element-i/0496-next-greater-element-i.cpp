@@ -2,28 +2,29 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         stack<int> s;
-        unordered_map<int, int> mp;  // Stores next greater elements
+        s.push(INT_MAX);
+        int n = nums2.size();
+        vector<int> ans(n);
+        unordered_map<int, int> nextGreater; // Map to store next greater elements
 
-        // Traverse nums2 from right to left
-        for (int i = nums2.size() - 1; i >= 0; i--) {
-            // Maintain a decreasing stack: Pop smaller elements
-            while (!s.empty() && s.top() <= nums2[i]) {
+        for (int i = n - 1; i >= 0; i--) {
+            int curr = nums2[i];
+            while (s.top() <= curr) {
                 s.pop();
             }
-
-            // If stack is empty, no greater element
-            mp[nums2[i]] = s.empty() ? -1 : s.top();
-
-            // Push current element onto stack
-            s.push(nums2[i]);
+            if (s.top() == INT_MAX) {
+                nextGreater[curr] = -1;
+            } else {
+                nextGreater[curr] = s.top();
+            }
+            s.push(curr);
         }
 
-        // Find results for nums1
-        vector<int> ans;
-        for (auto num : nums1) {
-            ans.push_back(mp[num]);  // Get stored next greater element
+        // Prepare result for nums1 using the map
+        vector<int> result;
+        for (int num : nums1) {
+            result.push_back(nextGreater[num]);
         }
-
-        return ans;
+        return result;
     }
 };
