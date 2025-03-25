@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0854-making-a-large-island) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -307,12 +310,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
