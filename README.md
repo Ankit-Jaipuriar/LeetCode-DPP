@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
+| [0908-middle-of-the-linked-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
