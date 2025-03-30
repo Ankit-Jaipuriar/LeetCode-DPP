@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0496-next-greater-element-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0647-palindromic-substrings](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-Jaipuriar/LeetCode-DPP/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
