@@ -3,34 +3,27 @@ public:
     int countStableSubsequences(vector<int>& nums) {
 
         int MOD = 1e9 + 7;
+        long long one_odd=0;
+        long long two_odd=0;
+        long long one_even=0;
+        long long two_even=0;
 
-        // Total counts of stable subsequences ending in each state
-        long long ends_e1 = 0, ends_e2 = 0, ends_o1 = 0, ends_o2 = 0;
+        for(int num:nums){
+            if(num%2==0){
+                long long new_one_even = 1  + one_odd + two_odd;
+                long long new_two_even = one_even;
 
-        for (int num : nums) {
-            if (num % 2 == 0) { // Number is Even
-                // 1. Calculate how many NEW subsequences we can form
-                //    - One-evens: The number itself (1) + append to all odd-enders
-                long long added_to_e1 = (1 + ends_o1 + ends_o2) % MOD;
-                //    - Two-evens: Append to all existing one-even-enders
-                long long added_to_e2 = ends_e1;
+                one_even= (one_even+new_one_even)%MOD;
+                two_even= (two_even+new_two_even)%MOD;
+            }else{
+                long long new_one_odd = 1  + one_even + two_even;
+                long long new_two_odd = one_odd;
 
-                // 2. Add these new counts to our running totals
-                ends_e1 = (ends_e1 + added_to_e1) % MOD;
-                ends_e2 = (ends_e2 + added_to_e2) % MOD;
-
-            } else { // Number is Odd
-                // Symmetrical logic for odd numbers
-                long long added_to_o1 = (1 + ends_e1 + ends_e2) % MOD;
-                long long added_to_o2 = ends_o1;
-
-                ends_o1 = (ends_o1 + added_to_o1) % MOD;
-                ends_o2 = (ends_o2 + added_to_o2) % MOD;
+                one_odd= (one_odd+new_one_odd)%MOD;
+                two_odd= (two_odd+new_two_odd)%MOD;
             }
         }
-        
-        // The final answer is the sum of all subsequences we've tracked
-        long long total = (ends_e1 + ends_e2 + ends_o1 + ends_o2) % MOD;
-        return static_cast<int>(total);
+        long long total = (one_even+two_even+one_odd+two_odd)%MOD;
+        return (int)total;
     }
 };
