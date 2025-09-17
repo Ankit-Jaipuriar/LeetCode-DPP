@@ -6,7 +6,6 @@ public:
         int maxi=INT_MIN;
         for(int num:nums){
             mp[num]++;
-            maxi = max(maxi,num);
             sum+=num;
         }
         int n=nums.size();
