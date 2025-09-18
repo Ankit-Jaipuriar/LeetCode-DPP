@@ -2,7 +2,6 @@ class Solution {
 public:
     int minArrivalsToDiscard(vector<int>& arrivals, int w, int m) {
         int n=arrivals.size();
-        //m - most occurence allowed
         //w - window range [i,j]
 
         int count=0;
