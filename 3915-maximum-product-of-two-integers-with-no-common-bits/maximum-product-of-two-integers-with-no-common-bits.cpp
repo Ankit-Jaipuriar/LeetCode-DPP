@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long maxProduct(vector<int>& nums) {
+        // --- Part 1: Setup ---
         int max_val=0;
         if(!nums.empty()){
             max_val = *max_element(nums.begin(),nums.end());
@@ -11,10 +12,11 @@ public:
 
         vector<int> dp(dp_size,0);
 
+         // --- Part 2: Initialization ---
         for(int num:nums){
             dp[num]=num;
         }
-
+         // --- Part 3: Propagation ---
         for(int i=0;i<bits;i++){
             for(int mask=0;mask<dp_size;mask++){
                 if((mask>>i)&1){
@@ -23,6 +25,7 @@ public:
             }
         }
 
+        // --- Part 4: Find Max Product ---
         long long max_product=0;
         int all_ones_mask=dp_size-1;
 
